@@ -39,10 +39,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
   <img width="1919" height="1030" alt="Attack Analyze" src="https://github.com/user-attachments/assets/48c3dd87-f0e0-4d91-837d-2f4ee56c494c" />
 
-  ## Conclusion
 
-  This project really sparked a passionate fire within me to pursue this field. Spending countless hours creating my own wireshark profile to different rule tunings that the software provides was fascinating.
-  I utilized different nmap technicques to see different alerts in real time and how the SIEM would respond. I can't underestimate how this little project turned into a newfound passion that brought what I've studied countless years in the classroom to a real-life scenerio
 
   
 
